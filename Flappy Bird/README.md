@@ -24,13 +24,12 @@ A fun and quirky Pygame-based clone of the classic Flappy Bird game — built en
 
 ## 📁 Project Structure
 <pre>
-FleppyBerd/
-├── Game/
+Flappy Bird/
 ├── Assets/
 │   ├── Font
 │   ├── Image
 │   └── Music
-├── readme.md
+├── README.md
 ├── requirements.txt
 └── main.py
 </pre>
