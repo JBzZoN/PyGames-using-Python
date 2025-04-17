@@ -18,4 +18,4 @@ Each game is organized in its own folder for clarity and easy access.
 1. **Flappy Bird**
    - My first game in this collection.
    - A simple clone of the classic Flappy Bird game.
-   - Tap to fly and avoid the pipes!
+   - Click space bar to fly and avoid the pipes!
