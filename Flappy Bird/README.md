@@ -5,8 +5,8 @@ A fun and quirky Pygame-based clone of the classic Flappy Bird game — built en
 ---
 
 ## 👾 How to play
-- Decompress the `Game.rar` file using the free `WinRAR` software.<br>
-- Open the extracted folder and move the `Game` application inside, to the folder where `Assets` is located and then double-click the application to start the game.<br>
+- 📦 [Click here]([https://drive.google.com/your-copied-link](https://drive.google.com/file/d/1IdwUk0sPzztB4c1lhUlUu1MF07vfTyX5/view?usp=sharing)) to download the game<br>
+- Download the Assets folder in the repository and place it in the same location as that of the Game application you downloaded earlier<br>
 - If you want to copy the game to another location on your system, make sure to copy the Assets folder as well. The game requires the Assets folder for proper gameplay.<br>
 - The Python file was converted into an executable application using `PyInstaller`.<br>
 
