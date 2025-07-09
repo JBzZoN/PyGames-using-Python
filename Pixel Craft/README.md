@@ -1,4 +1,4 @@
-# 🌱 Sprout Lands Clone – Pygame Farming RPG
+# 🌱 Pixel Craft
 
 A **Pygame-based farming game** inspired by [this tutorial video](https://youtu.be/T4IX36sP_0c?si=Q0KohV4zttKS1PLx) by Clear Code.  
 This version features several **custom enhancements** like:
