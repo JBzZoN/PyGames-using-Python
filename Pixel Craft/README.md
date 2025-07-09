@@ -11,7 +11,40 @@ This version features several **custom enhancements** like:
 
 ---
 
+## 🎮 How to Play
+
+1. **Download the Game Executable (.exe)**  
+   👉 [Click here to download the game](https://drive.google.com/file/d/10fGIsv78lE9Zw6l1AYJB0OQ-kK4tiyLo/view?usp=drive_link)
+
+2. **Place the File**  
+   After downloading, move the `.exe` file into the `Code files/` folder inside the project directory.
+
+3. **Run the Game**  
+   - Double-click the `.exe` file to start the game.
+   - No Python installation is needed if you're using the `.exe` version.
+
 ## 🌲Project Structure
+
+Pixel Craft/<br>
+├── Code files/<br>
+│ ├── generic.py<br>
+│ ├── level.py<br>
+│ ├── main.py<br>
+│ ├── overlay.py<br>
+│ ├── player.py<br>
+│ ├── settings.py<br>
+│ └── support.py<br>
+│<br>
+├── Font/<br>
+│ └── retro.ttf<br>
+│<br>
+├── Graphics/<br>
+│ ├── other_images/<br>
+│ ├── seeds/<br>
+│ ├── tiled/<br>
+│ └── tools/<br>
+│<br>
+└── screenshots/<br>
 
 ## 📸 Screenshots
 
