@@ -12,7 +12,19 @@ This version features several **custom enhancements** like:
 
 ## 📸 Screenshots
 
+### Agriculture
+![Gameplay Screenshot](screenshots/agriculture.png)
 
+### Zoom
+![Gameplay Screenshot](screenshots/zoom1.png)
+![Gameplay Screenshot](screenshots/zoom1.5.png)
+![Gameplay Screenshot](screenshots/zoom2.png)
+
+### Interaction
+![Gameplay Screenshot](screenshots/interaction.png)
+
+### Rain
+![Gameplay Screenshot](screenshots/rain.png)
 
 ## 🎮 Features
 
