@@ -19,3 +19,8 @@ Each game is organized in its own folder for clarity and easy access.
    - My first game in this collection.
    - A simple clone of the classic Flappy Bird game.
    - Click space bar to fly and avoid the pipes!
+
+2. **Pixel Craft**
+   - A 2D farming and exploration game inspired by Stardew Valley.
+   - Built using Pygame, featuring a tile-based world, farming, rain effects, and a zoomable camera.
+   - Features a working inventory system, help screen, and zoom-in/out functionality using the mouse wheel.
