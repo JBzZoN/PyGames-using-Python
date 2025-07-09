@@ -24,28 +24,28 @@ This version features several **custom enhancements** like:
    - No Python installation is needed if you're using the `.exe` version.
 
 ## 🌲Project Structure
-
-Pixel Craft/<br>
-├── Code files/<br>
-│ ├── generic.py<br>
-│ ├── level.py<br>
-│ ├── main.py<br>
-│ ├── overlay.py<br>
-│ ├── player.py<br>
-│ ├── settings.py<br>
-│ └── support.py<br>
-│<br>
-├── Font/<br>
-│ └── retro.ttf<br>
-│<br>
-├── Graphics/<br>
-│ ├── other_images/<br>
-│ ├── seeds/<br>
-│ ├── tiled/<br>
-│ └── tools/<br>
-│<br>
-└── screenshots/<br>
-
+<pre>
+Pixel Craft/
+├── Code files/
+│ ├── generic.py
+│ ├── level.py
+│ ├── main.py
+│ ├── overlay.py
+│ ├── player.py
+│ ├── settings.py
+│ └── support.py
+│
+├── Font/
+│ └── retro.ttf
+│
+├── Graphics/
+│ ├── other_images/
+│ ├── seeds/
+│ ├── tiled/
+│ └── tools/
+│
+└── screenshots/
+</pre>
 ## 📸 Screenshots
 
 ### Agriculture
