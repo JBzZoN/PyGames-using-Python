@@ -52,7 +52,7 @@ pip install pygame
 ## 🧾 Credits
 
 - 🎮 **Game Assets**  
-  *From* [Sprout Lands](https://cupnooble.itch.io/sprout-lands) by **Cup Nooble**  
+  *From* **Sprout Lands** by **Cup Nooble**  
   *(Used with proper credit as per their asset license)*
 
 - 📹 **Tutorial Inspiration**  
