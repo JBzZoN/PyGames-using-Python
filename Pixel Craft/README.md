@@ -34,10 +34,9 @@ This version features several **custom enhancements** like:
 - 🧑‍🌾 Farming mechanics (planting, watering, harvesting)
 - ☔ Procedural rain drawn using `pygame.draw`
 - 📦 Inventory system with UI
-- ⛅ Dynamic weather and day-night cycle (if you added this)
+- ⛅ Dynamic weather and day-night cycle
 - 📜 Help screen with key bindings
 - 🔎 Zoom in/out support using scroll
-- 🌳 More sprites and object interactions than original
 
 ---
 
@@ -49,3 +48,14 @@ This version features several **custom enhancements** like:
 
 ```bash
 pip install pygame
+```
+## 🧾 Credits
+
+- 🎮 **Game Assets**  
+  *From* [Sprout Lands](https://cupnooble.itch.io/sprout-lands) by **Cup Nooble**  
+  *(Used with proper credit as per their asset license)*
+
+- 📹 **Tutorial Inspiration**  
+  [Clear Code's Pygame Farming Game](https://youtu.be/T4IX36sP_0c?si=Q0KohV4zttKS1PLx)
+
+- 🧠 Custom code and extensions written by **Josh Biju**
