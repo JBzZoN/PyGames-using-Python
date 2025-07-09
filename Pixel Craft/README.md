@@ -22,6 +22,19 @@ This version features several **custom enhancements** like:
 3. **Run the Game**  
    - Double-click the `.exe` file to start the game.
    - No Python installation is needed if you're using the `.exe` version.
+  
+## 🕹️ Game Tutorial
+- Q to switch between tools and seeds
+- Shift to switch between tools(axe, hoe, water can)
+- WASD to move
+- SPACE BAR to interact with the environment
+- Use Mouse pointer to access inventory and help
+- Can use the hoe to prepare land for sowing seeds
+- Seeds grow faster if watered
+- Trees may or may not produce apple everyday(random)
+- Can chop down trees using axe to get logs or apples(if any)
+- Chopped down trees grow back the next day
+- Each day it may or may not rain(random, probability)
 
 ## 🌲Project Structure
 <pre>
